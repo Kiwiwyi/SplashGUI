@@ -1,1 +1,1 @@
-Hello
+return "Hello"
