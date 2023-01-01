@@ -10,7 +10,7 @@ iRay  | Programming
 
 
 
-local Release = "Beta 7R"
+local Release = "Kiwi's GUI"
 local NotificationDuration = 6.5
 local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
